@@ -4,7 +4,7 @@
 
 ---
 
-### 💡 Skills & Technologies
+### Skills & Technologies
 
 - **Languages:** Go, Python, Java, C++, GDscript, SQL  
 - **Frameworks/Tools:** Docker, VSCode, RStudio, Jupyter Notebook  
@@ -28,14 +28,14 @@
 
 ---
 
-### 🌐 Connect
+###  Connect
 
 - [LinkedIn](https://www.linkedin.com/in/joell-alex/)
 - **Email:** joellalex922@gmail.com
 
 ---
 
-### 🎯 Interests & Impact
+###  Interests & Impact
 
 - Guided 100+ students in Lua scripting and game development during a Rancho Labs internship.
 - Passionate about building AI-driven tools to make health and education more accessible.
