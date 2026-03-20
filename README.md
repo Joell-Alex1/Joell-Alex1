@@ -1,46 +1,24 @@
-## Joell Alex — Aspiring Software Engineer (Backend & AI Integration)
+# Resume
 
-**Mumbai, Maharashtra, India • B.Tech, Computer Science & Business Systems (Expected 2027)**
+## Work Experience
 
----
+### Neubitat
+- Developed smart home solutions that improved energy efficiency by 30%.
+- Collaborated with cross-functional teams to deliver projects on time.
+- Led a team of 5 engineers in a successful product launch.
 
-### Skills & Technologies
+### Ohey Inc
+- Designed a user-friendly mobile application that received a 4.8 rating on the App Store.
+- Conducted user research to inform product development, leading to a 20% increase in user engagement.
 
-- **Languages:** Go, Python, Java, C++, GDscript, SQL  
-- **Frameworks/Tools:** Docker, VSCode, RStudio, Jupyter Notebook  
-- **Databases:** MySQL  
-- **Domains:** Backend Systems, Game Development, AI Integration, Data-Driven Automation  
+### VoiceHelden
+- Implemented a voice recognition system that reduced processing time by 15%.
+- Optimized algorithms to enhance speech accuracy in real-time applications.
 
----
+## Skills
+- Programming Languages: Python, Java, JavaScript
+- Frameworks: React, Node.js, Flask
+- Tools: Git, Docker, Jenkins
+- Soft Skills: Team Leadership, Project Management, Communication
 
-### 🚀 Featured Projects
-
-**1. AI-Powered Symptom & Medicine Advisor**  
-*Python, Gemini API, FDA API, MySQL*  
-- Delivers verified medicine recommendations with 85% accuracy.  
-- Optimized data retrieval by 18% via custom MySQL queries and database design.  
-- Integrates OpenWeather API for air quality-based health advice.
-
-**2. Knight’s Adventure (Hack-and-Slash Game)**  
-*Godot Engine, GDscript*  
-- Published for macOS & Windows; 100+ downloads, 15k+ Instagram views.  
-- Designed tutorials and accessibility for young players (ages 7+).
-
----
-
-###  Connect
-
-- [LinkedIn](https://www.linkedin.com/in/joell-alex/)
-- **Email:** joellalex922@gmail.com
-
----
-
-###  Interests & Impact
-
-- Guided 100+ students in Lua scripting and game development during a Rancho Labs internship.
-- Passionate about building AI-driven tools to make health and education more accessible.
-- Motto: *“Code that teaches, builds, and inspires.”*
-
----
-
-*Seeking opportunities in backend engineering, automation, and AI integration. Let’s connect!*
+*Updated on 2026-03-20*
