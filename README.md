@@ -20,7 +20,7 @@ Software Development Engineer Intern with experience shipping production-grade b
 - Implemented real-time state synchronization using WebSockets, handling partial failures and inconsistent client state during live gameplay.
 
 ### Ohey Inc.
-**MLOps Engineer Intern** | Remote (San Francisco) | Feb 2025 - Present
+**MLOps Engineer Intern** | Remote (San Francisco) | Feb 2026 - Present
 - Architected and deployed an end-to-end observability stack on a cloud VPS using Prometheus and Grafana, configuring scrape targets, jobs, and port bindings while organizing dashboards across monitoring layers.
 - Built ML monitoring dashboards for 10+ models (XGBoost, LightGBM, HistGBM, MLP, and ensemble variants), defining metrics and visualization panels for inference latency and model-serving performance.
 - Instrumented API and infrastructure observability, tracking request latency, queue lag, CPU utilization, memory usage, and disk I/O across the model-serving pipeline.
