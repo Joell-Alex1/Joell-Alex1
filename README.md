@@ -13,7 +13,7 @@ Software Development Engineer Intern with experience shipping production-grade b
 ##  Work Experience
 
 ### Neubitat
-**Software Development Intern** | Remote | Nov 2025 - Present
+**Software Development Intern** | Remote | Dec 2025 - Present
 - Built and shipped React + Next.js frontend features for a real-time chess platform, directly supporting live gameplay and puzzle interactions.
 - Designed and implemented production Python backend APIs with clear contracts to support chess puzzles, scoring logic, and multiplayer game state.
 - Integrated AI-powered OCR pipelines using OpenAI and Gemini APIs, designing validation, normalization, and post-processing logic to ensure downstream systems only consumed structured, reliable chess move data (SAN).
